@@ -42,3 +42,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Deliveroo** (September 2015 to August 2016)    
 *Social Media Executive*
+- Customer Experience Rep & Social Media Response Team Leader
+- Coordinating with Comms team to respond to challenging and public issues over social media
+- Coordinating with Marketing team to implement regional social media competitions
+- Maintaining social media-based advertisements
+- Implementing proactive email-based customer retention scheme
+- Designing method for logging issue and interaction types and trends, with SQL and PeriscopeData
+- Designing templates for and producing daily and weekly social media reports for company CEO
+- Training new employees and advising on development of Deliveroo France’s social media team
