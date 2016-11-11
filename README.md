@@ -21,6 +21,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Projects
+
+Project | Description | Technologies | Testing | Timeframe
+--- | --- | --- | --- | ---
+[Attendr](https://github.com/ewansheldon/attendr) | An iOS dating app that allows users to 'like' events that they're interested in, and only connects users interested in the same events as potential matches. We also created a separate [Node server project](https://github.com/ewansheldon/attendr-server) to push events we wanted to the app and store user information. The app has a chat function integrated, built with Firebase, to allow users to get to know each other before their date. | Swift, Javascript, Node.js, PostgreSQL, Firebase | Jasmine | 8 Days
+[TDDetective](https://github.com/tam-borine/TDDetective) | During a three-day hackathon, we were tasked with creating a tool for developers. As ardent believers in the benefits of TDD, we produced an atom package to detect any code written without a test to support it. Our package highlights in red any untested Ruby classes or methods. | Javascript, Node.js | Jasmine | 3 Days
+[nodeAbode](https://github.com/mjosephmiller/makersbnb) | A full stack AirBnb clone built with technologies that were completely unfamiliar to us as a group. Having previously worked mostly with Ruby, we saw this as a great opportunity to further our JS knowledge. | JavaScript, Node.js, Express, Pug, Sequelize | Mocha, Chai, Zombie | 4 Days
+
 ## Education
 
 #### Makers Academy, August 2016-November 2016
@@ -29,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile Methodologies
 - Test-Driven Development
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js, Swift
 - Rspec, Jasmine, Mocha
 
 #### University of Bath, 2011-2015
