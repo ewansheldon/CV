@@ -2,7 +2,7 @@
 
 I am a full-stack junior developer and have recently graduated from Makers Academy, Europe's leading software development bootcamp. Despite having an interest throughout university in coding and development, I didn't think it would be possible to convert this into a professional skill.
 
-However, having spent three months at Makers learning how to pick up any new tech efficiently, and nailing the best practices of software development processes, I am now well equipped to further my learning in a junior developer role. Though I understand that I still have much to learn as a developer, I know that I have a unique set of skills that will prove useful to any team, and I am looking for a development team that will give me the support that I need to prove this.
+However, having spent an intense 16 weeks at Makers learning how to pick up any new tech efficiently, and nailing the best practices of software development processes, I am now well equipped to further my learning in a junior developer role. Though I understand that I still have much to learn as a developer, I know that I have a unique set of skills that will prove useful to any team, and I am looking for a development team that will give me the support that I need to prove this.
 
 ## Skills
 
@@ -12,7 +12,7 @@ Beyond all else, it is my tendency to put myself into unfamiliar situations and 
 
 In my third year of university, I was lucky enough to study at Madrid's largest university. To push my language skills to the limit, I enrolled on politics, literature and history modules with native speakers, forcing me out of my comfort zone and putting my pigeon Spanish under the microscope. Later in the year I moved to Moscow having only studied for two years and never visited Russia previously. I moved into a small room in a Russian grandma's house. Her blunt manner with her lodgers and no ability to speak English again meant it was sink or swim for my language skills, but suffice to say we made it work.
 
-In my first full-time job after university, I was granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning into a globally recognised food delivery company. Having no real experience in social media, it was a daunting task but I am proud that I was able to create the template for a team that now exists in each of Deliveroo's international departments.
+In my first full-time job after university, I was granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company. Having no real experience in social media, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
 
 #### Another Skill
 
