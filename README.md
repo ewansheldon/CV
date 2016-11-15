@@ -20,7 +20,7 @@ In my third year of university, I was lucky enough to study at Madrid's largest 
 
 Regular and effective communication is crucial for any efficient team of developers, and I therefore made this a constant focus throughout my time studying at Makers Academy.
 
-We religiously followed the principles of Agile and Extreme Programming whilst at Makers, and as a result we would pair daily, giving all students an opportunity to explain and listen in equal measure. We would also have daily standups and weekly retros when working in groups. These practices now allow me to feel confident in my ability to explain well both technical problems and solutions.
+We religiously followed the principles of Agile and Extreme Programming whilst at Makers, and as a result we would pair program daily, giving all students an opportunity to explain and listen in equal measure. We would also have daily standups and weekly retros when working in groups. These practices now allow me to feel confident in my ability to explain well both technical problems and solutions.
 
 At Deliveroo I would be in constant communication with higher-ups and other departments while our new department was integrated into the company. I was also regularly training members of my team and consulting international branches of the company.
 
