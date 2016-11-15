@@ -10,7 +10,7 @@ Having spent an intense 16 weeks at Makers learning how to pick up any new tech 
 
 Beyond all else, it is my tendency to put myself into unfamiliar situations and find my feet quickly that gives me great potential as a developer.
 
-I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook, my groups prioritised learning new technologies. In our first group project week, and with only five days practice with Javascript previously, we developed a full stack Airbnb clone with Express in four days. During our hackathon we developed an atom plug-in to push TDD with no prior knowledge of working with the domain. For our final project we challenged ourselves with a brand new language and project workspace by developing an iOS app. This proved the greatest challenge, and we were still getting to grips with the language all the way to the end, but we were extremely proud of the product that we were able to present at our graduation.
+I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook, my groups prioritised learning new technologies. In our first group project week, and with only five days practice with Javascript previously, we developed a full stack Airbnb clone with Express in four days. During our hackathon we developed an Atom plug-in to push TDD with no prior knowledge of working with the domain. For our final project we challenged ourselves with a brand new language and project workspace by developing an iOS app. This proved the greatest challenge, and we were still getting to grips with the language all the way to the end, but we were extremely proud of the product that we were able to present at our graduation.
 
 In my first full-time job after university, I was granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company. Having no real experience in social media, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
 
@@ -18,14 +18,16 @@ In my third year of university, I was lucky enough to study at Madrid's largest 
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Regular and effective communication is crucial for any efficient team of developers, and I therefore made this a constant focus throughout my time studying at Makers Academy.
+
+We religiously followed the principles of Agile and Extreme Programming whilst at Makers
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Projects
+## Projects
 
 Project | Description | Technologies | Testing | Timeframe
 --- | --- | --- | --- | ---
@@ -35,7 +37,7 @@ Project | Description | Technologies | Testing | Timeframe
 
 ## Education
 
-#### Makers Academy, August 2016-November 2016
+#### Makers Academy, London, August 2016-November 2016
 
 - Object-oriented programming
 - Agile Methodologies
@@ -50,6 +52,11 @@ Project | Description | Technologies | Testing | Timeframe
 - 2.1
 - In my third year I spent 5 months studying politics and cultural modules at a university in Madrid, as well as 5 months at a language school in Moscow
 
+#### Tiffin School, Kingston, 2004-2011
+
+- 10 GCSEs: A*-B
+- A-Levels: Mathematics (A), Spanish (B), History (B)
+
 ## Experience
 
 **Deliveroo** (September 2015 to August 2016)    
@@ -62,3 +69,7 @@ Project | Description | Technologies | Testing | Timeframe
 - Designing method for logging issue and interaction types and trends, with SQL and PeriscopeData
 - Designing templates for and producing daily and weekly social media reports for company CEO
 - Training new employees and advising on development of Deliveroo France’s social media team
+
+## Other Interests
+
+When I'm taking a rare moment away from debugging or refactoring, I like to dive into the filmographies of Stanley Kubrick, Wes Anderson or David Lynch, listen to some avant-garde Brooklyn-based art rock or perhaps relax with an episode of The Simpsons (though strictly seasons 1-10). I can also regularly be found watching Arsenal in agony on weekends.
