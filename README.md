@@ -1,6 +1,8 @@
 ## Ewan Sheldon
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a full-stack junior developer and have recently graduated from Makers Academy, Europe's leading software development bootcamp. Despite having an interest throughout university in coding and development, I didn't think it would be possible to convert this into a professional skill.
+
+However, having spent three months at Makers learning how to pick up any new tech efficiently, and nailing the best practices of software development processes, I am now well equipped to further my learning in a junior developer role. Though I understand that I still have much to learn as a developer, I know that I have a unique set of skills that will prove useful to any team, and I am looking for a development team that will give me the support that I need to prove this.
 
 ## Skills
 
