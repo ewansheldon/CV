@@ -6,13 +6,13 @@ However, having spent three months at Makers learning how to pick up any new tec
 
 ## Skills
 
-#### This Skill
+#### Quick to learn and adapt
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Beyond all else, it is my tendency to put myself into unfamiliar situations and find my feet quickly that gives me great potential as a developer.
 
-- Experience
-- Achievements
-- Evidence
+In my third year of university, I was lucky enough to study at Madrid's largest university. To push my language skills to the limit, I enrolled on politics, literature and history modules with native speakers, forcing me out of my comfort zone and putting my pigeon Spanish under the microscope. Later in the year I moved to Moscow having only studied for two years and never visited Russia previously. I moved into a small room in a Russian grandma's house. Her blunt manner with her lodgers and no ability to speak English again meant it was sink or swim for my language skills, but suffice to say we made it work.
+
+In my first full-time job after university, I was granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning into a globally recognised food delivery company. Having no real experience in social media, it was a daunting task but I am proud that I was able to create the template for a team that now exists in each of Deliveroo's international departments.
 
 #### Another Skill
 
