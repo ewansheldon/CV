@@ -70,4 +70,4 @@ Project | Description | Technologies | Testing | Timeframe
 
 ## Other Interests
 
-When I'm taking a rare moment away from debugging or refactoring, I like to dive into the filmographies of Stanley Kubrick, Wes Anderson or David Lynch, listen to some avant-garde Brooklyn-based art rock or perhaps relax with an episode of The Simpsons (though strictly seasons 1-10). I can also regularly be found watching Arsenal in agony on weekends.
+When I'm taking a rare moment away from debugging or refactoring, I like to dive into the filmographies of Stanley Kubrick, Wes Anderson or David Lynch, listen to some avant-garde Brooklyn-based art rock or perhaps relax with an episode of The Simpsons (strictly seasons 1-10). I can also regularly be found watching Arsenal in agony on weekends.
