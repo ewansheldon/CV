@@ -1,8 +1,8 @@
 ## Ewan Sheldon
 
-I am a **full-stack junior developer** and have recently graduated from Makers Academy, Europe's leading software development bootcamp. Despite having an interest throughout university in coding and development, I didn't think it would be possible to convert this into a professional skill. In my first job after graduating from university I felt unchallenged and frustrated that I lacked concrete transferable skills. I wanted to work in an industry where I could make my mark and find direction.
+I am a **full-stack junior developer** and have recently graduated from Makers Academy, Europe's leading software development bootcamp. To date I have mainly worked with Ruby, Javascript and Swift, however I have also proven my ability to build projects with brand new technologies within days. I am a fast learner and keen problem-solver with great attention to detail. Though I understand that I still have much to learn as a developer, I know that I have a unique set of skills that will prove useful to any team, and I am looking for a development team with strong direction, vision and culture that will give me the support that I need to prove this.
 
-Having spent an intense 16 weeks at Makers learning how to pick up any new tech efficiently, and nailing the best practices of software development processes, I am now well equipped to further my learning in a junior developer role. Though I understand that I still have much to learn as a developer, I know that I have a unique set of skills that will prove useful to any team, and I am looking for a development team that will give me the support that I need to prove this.
+Having completed a modern languages degree and subsequently worked for a year in Digital Marketing, I felt unchallenged and frustrated that I lacked concrete transferable skills. The work was repetitive and it felt as though my natural strengths were not being used. Having spent an intense 16 weeks at Makers learning how to pick up any new tech efficiently, and nailing the best practices of software development processes, I am now well equipped to further my learning in a junior developer role. I am excited to work in an industry whose ever-changing nature will keep me on my toes everyday.
 
 ## Skills
 
@@ -60,7 +60,6 @@ Project | Description | Technologies | Testing | Timeframe
 
 **Deliveroo** (September 2015 to August 2016)    
 *Social Media Executive*
-- Customer Experience Rep & Social Media Response Team Leader
 - Coordinating with Communications team to respond to challenging and public issues over social media
 - Coordinating with Marketing team to implement regional social media competitions
 - Maintaining social media-based advertisements
