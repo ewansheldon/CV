@@ -14,8 +14,6 @@ I certainly pushed myself out of my comfort zone while studying at Makers Academ
 
 Fortunate enough to be granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company, having no real experience in digital marketing, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
 
-In my third year of university, I was lucky enough to study at Madrid's largest university. To push my language skills to the limit, I enrolled on politics, literature and history modules with native speakers, forcing me out of my comfort zone and putting my pigeon Spanish under the microscope. Later in the year I moved to Moscow having only studied for two years and never visited Russia previously. I moved into a small room in a Russian grandma's house. Her blunt manner with her lodgers and no ability to speak English again meant it was sink or swim for my language skills, but suffice to say we made it work.
-
 I enrolled on politics, literature and history modules with native speakers while studying in Madrid and in Moscow I chose to live alone with an Russian grandma with no grasp of English. Both experiences pushed my language skills to the limit and I believe they shaped my ability to succeed in unfamiliar tech surroundings now.
 
 #### Communication
