@@ -13,7 +13,7 @@ Beyond all else, it is my tendency to put myself into unfamiliar situations and 
 I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook, my groups prioritised learning new technologies:
 
 - Full-stack Express Airbnb replica with a few days of Javascript previous
-- Atom package with no knowledge of the domain
+- Atom package with no knowledge of the domain during a high-stakes hackathon
 - iOS app final project with no experience of Swift of Xcode
 
 I now feel very confident and proud in my ability to work with unfamiliar technology.
