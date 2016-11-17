@@ -10,7 +10,13 @@ Feeling unchallenged and frustrated with the digital marketing work I was doing 
 
 Beyond all else, it is my tendency to put myself into unfamiliar situations and find my feet quickly that gives me great potential as a developer.
 
-I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook, my groups prioritised learning new technologies. Having built a full stack Airbnb replica with a few days of Javascript under our belts, an Atom package with no knowledge of the domain, and choosing to present an iOS app for our final project with no experience of Swift of Xcode, I now feel very confident and proud in my ability to work with unfamiliar technology.
+I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook, my groups prioritised learning new technologies:
+
+- Full-stack Express Airbnb replica with a few days of Javascript previous
+- Atom package with no knowledge of the domain
+- iOS app final project with no experience of Swift of Xcode
+
+I now feel very confident and proud in my ability to work with unfamiliar technology.
 
 Fortunate enough to be granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company, having no real experience in digital marketing, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
 
