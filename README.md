@@ -18,7 +18,7 @@ I certainly pushed myself out of my comfort zone while studying at Makers Academ
 
 I now feel very confident and proud in my ability to work with unfamiliar technology.
 
-Fortunate enough to be granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company, having no real experience in digital marketing, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
+Fortunate enough to be granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company, and having no real experience in digital marketing, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
 
 I enrolled on politics, literature and history modules with native speakers while studying in Madrid and in Moscow I lived alone with a brusque old Russian lady. Both experiences pushed my language skills to the limit and I believe they shaped my ability to succeed in unfamiliar tech surroundings now.
 
