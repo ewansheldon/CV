@@ -8,31 +8,31 @@ Feeling unchallenged and frustrated with the digital marketing work I was doing 
 
 #### Quick to learn and adapt
 
-Beyond all else, it is my tendency to put myself into unfamiliar situations and find my feet quickly that gives me great potential as a developer.
+Beyond all else, I'm always keen to put myself into unfamiliar situations and learn new skills and I believe these traits are key to being a good developer. (something like this?)
 
-I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook, my groups prioritised learning new technologies:
+I certainly pushed myself out of my comfort zone while studying at Makers Academy. During each group project that we undertook my ability to feel comfortable with the unknowns helped me to take lead when necesssary and give the group direction aswell as organise learning new technologies:
 
-- Full-stack Express Airbnb replica with a few days of Javascript previous
-- Atom package with no knowledge of the domain during a high-stakes hackathon
-- iOS app final project with no experience of Swift of Xcode
+- Full-stack Express Airbnb replica with a few days of Javascript previous (could you link to this? either repo or heroku)
+- Atom package with no knowledge of the domain during a high-stakes hackathon (could you link to this? either repo or heroku)
+- iOS app final project with no experience of Swift of Xcode (could you link to this? either repo or heroku / youtube)
 
-I now feel very confident and proud in my ability to work with unfamiliar technology.
+Pushing myself and the teams I worked in I now feel confident and proud in my ability to work with unfamiliar technology. 
 
-Fortunate enough to be granted the responsibility to create and lead the social media team for Deliveroo, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company, and having no real experience in digital marketing, it was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally is testament to my ability to adapt and thrive.
+During my time at Deliveroo, I was trusted with the responsibility to create and lead the social media team, at a time when the company was rapidly transitioning from an exciting startup into a globally recognised food delivery company, and having no real experience in digital marketing. It was a daunting task but I am proud that I was able to create the template for a team that now exists globally in each of Deliveroo's international departments. That I was able to move from learning the ropes to being able to consult internationally shows my ability to adapt and thrive.
 
-I enrolled on politics, literature and history modules with native speakers while studying in Madrid and in Moscow I lived alone with a brusque old Russian lady. Both experiences pushed my language skills to the limit and I believe they shaped my ability to succeed in unfamiliar tech surroundings now.
+I enrolled on politics, literature and history modules with native speakers while studying in Madrid and in Moscow I lived alone with a brusque old Russian lady. Both experiences pushed my language skills to the limit and I believe they shaped my ability to be comfortable in unfamiliar tech surroundings now.
 
 #### Communication
 
-Regular and effective communication is crucial for any efficient team of developers, and I therefore made this a constant focus throughout my time studying at Makers Academy:
+Regular and effective communication is a core XP value and during my time studying at Makers Academy I made this a constant focus when working in pairs and teams. A few practices we found incredibly valuable were:
 
 - Daily pair-programming
 - Daily standups
 - Weekly retrospectives
 
-These practices now allow me to feel confident in my ability to explain and listen to technical problems and solutions.
+These practices allow me to feel confident in my ability to explain and listen to technical problems and solutions and communicate effectively in a team.
 
-At Deliveroo I would be in constant communication with higher-ups and other departments while my new department was integrated into the company. I was also regularly training members of my team and consulting international branches of the company.
+At Deliveroo I would be in constant communication with senior stakeholders and other departments while my new department was integrated into the company. I was also regularly training members of my team and consulting international branches of the company.
 
 I owe my communication skills to my modern languages degree, during which expressing myself and understanding other was unfortunately not so easy.
 
